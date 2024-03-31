@@ -1,0 +1,1 @@
+/home/emreroll/.pyenv/versions/3.12.2/bin/python src/main.py
